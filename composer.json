@@ -1,0 +1,19 @@
+{
+    "name": "caxy/postal-code",
+    "description": "Simple class to convert US postal codes to US states",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Doherty",
+            "email": "bdoherty@caxy.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Caxy\\": "src/"
+        }
+    }
+}
