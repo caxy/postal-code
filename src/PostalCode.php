@@ -142,13 +142,7 @@ class PostalCode
             case ($postalCode >= 430 && $postalCode <= 459):
                 return 'OH';
 
-            case ($postalCode >= 460 && $postalCode <= 470):
-                return 'IN';
-
-            case ($postalCode >= 471 && $postalCode <= 471):
-                return 'KY';
-
-            case ($postalCode >= 472 && $postalCode <= 479):
+            case ($postalCode >= 460 && $postalCode <= 479):
                 return 'IN';
 
             case ($postalCode >= 480 && $postalCode <= 499):
